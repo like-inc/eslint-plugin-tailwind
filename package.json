@@ -1,6 +1,6 @@
 {
-  "name": "@pl/eslint-plugin-tailwind",
-  "version": "1.0.0",
+  "name": "@p-like/eslint-plugin-tailwind",
+  "version": "1.0.1",
   "description": "ESLint plugin for enforcing Tailwind CSS best practices",
   "main": "lib/index.js",
   "keywords": [

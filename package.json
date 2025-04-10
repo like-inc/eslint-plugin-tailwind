@@ -1,0 +1,27 @@
+{
+  "name": "@pl/eslint-plugin-tailwind",
+  "version": "1.0.0",
+  "description": "ESLint plugin for enforcing Tailwind CSS best practices",
+  "main": "lib/index.js",
+  "keywords": ["eslint", "eslint-plugin", "tailwindcss", "spacing"],
+  "author": "Petro Fedchenko",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "jest": "^29.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/like-inc/eslint-plugin-tailwind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/like-inc/eslint-plugin-tailwind/issues"
+  },
+  "homepage": "https://github.com/like-inc/eslint-plugin-tailwind#readme"
+}
